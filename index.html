@@ -7,6 +7,7 @@
     <title>QR Code Generator</title>
   </head>
   <body>
+    <h1>Ryan's QR Code Generator</h1>
     <div class="container">
       <p>Enter Your Text or URL</p>
       <input type="text" placeholder="Text or URL" id="qrText" />
@@ -15,6 +16,7 @@
         <img src="" alt="QR Code" id="qrImage" />
       </div>
     </div>
+    <a href="https://ryanfann.netlify.app/">View My Other Projects</a>
 
     <script>
       let imgBox = document.getElementById('imgBox');
@@ -22,7 +24,7 @@
       let qrImage = document.getElementById('qrImage');
 
       function generateQR() {
-        imgBox.style.display = 'block';
+        imgBox.style.display = 'flex';
 
         let text = qrText.value;
         let size = '200x200';

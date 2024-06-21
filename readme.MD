@@ -14,12 +14,9 @@ A Free and Simple QR Code Generator. Simply enter the web address and click Gene
 ## Table of Contents
 
 1. [Usage](#usage)
-1. [Installation Code](#installation)
 1. [Technologies](#technologies)
-1. [Screenshot](#screenshot)
 1. [License](#license)
 1. [Contributing](#contributing)
-1. [Tests](#tests)
 1. [Links](#links)
 1. [Contact](#contact)
 
@@ -29,13 +26,11 @@ A Free and Simple QR Code Generator. Simply enter the web address and click Gene
 
 ## Usage
 
-Go to LINK. In the input field enter your web address. Click Generate.
-
-<a id="installation"></a>
-
-```
-none
-```
+Go to [LIVE LINK](https://8bitginger.github.io/qrGenerator/).
+<br>
+Click inside the input field to enter your web address.
+<br>
+then Click Generate.
 
 ---
 
@@ -45,7 +40,7 @@ none
 
 QR code API via [LINK](https://goqr.me/api/)
 
-utilizing only Vanilla JavaScript!
+utilizing Vanilla JavaScript!
 
 ---
 
@@ -75,7 +70,7 @@ Inspired by: [GreatStack](https://www.youtube.com/watch?v=g1j9rR-H1lk)
 
 ### [GitHub Repo](https://github.com/8BitGinger/qrGenerator)
 
-### [Live Link](github live)
+### [Live Link](https://8bitginger.github.io/qrGenerator/)
 
 </div>
 
@@ -89,7 +84,7 @@ Contact Me Here:
 
 #### Email:
 
-ryan.fann@gmail.com
+[Gmail](mailto:ryan.fann@gmail.com)
 
 #### GitHub Username:
 
